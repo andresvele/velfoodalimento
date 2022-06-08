@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.text-center img{
+    height: 220px;
+}
+@font-face{
+    font-family: fuente1;
+    src: url(font/Coffee\ Extra.ttf);
+}
+header{
+    background-color: #0ccbff;
+}
+h1{
+    font-family: fuente1;
+    font-size: 50px;
+    text-align: center;
+    color: #fbfbfb;
+}
+footer{
+    display: block;
+    padding-left: 15px;
+    background-color: #0ccbff;
+    color: #fbfbfb;
+    font-size: 18px;
+}
+.pedido h1{
+    color: black;
+    font-size: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
